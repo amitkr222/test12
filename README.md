@@ -20,7 +20,6 @@ similarity score between the provided texts.
 python -m uvicorn main:app --host 0.0.0.0 --port 8000 –reload
 
 
-• Required packages:
 • Once Application startup is complete, go to the link:
 http://localhost:8000/docs
 
