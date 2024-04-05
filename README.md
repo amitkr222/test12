@@ -15,3 +15,11 @@ similarity score between the provided texts.
 http://localhost:8000/docs
 • “Try it out” and give “text1” and “text2” to check “similarity score”
 • Remember to use meaningful words!!
+
+<figure class="half">
+    <img src="request.png">
+</figure>
+
+<figure class="half">
+    <img src="response.png">
+</figure>
